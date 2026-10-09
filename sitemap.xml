@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hexnodegames.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hexnodegames.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hexnodegames.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hexnodegames.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hexnodegames.com/"/>
+  </url>
+  <url>
+    <loc>https://hexnodegames.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hexnodegames.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hexnodegames.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hexnodegames.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hexnodegames.com/"/>
+  </url>
+  <url>
+    <loc>https://hexnodegames.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hexnodegames.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hexnodegames.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hexnodegames.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hexnodegames.com/"/>
+  </url>
+  <url>
+    <loc>https://hexnodegames.com/mechinfection/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hexnodegames.com/mechinfection/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hexnodegames.com/fr/mechinfection/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hexnodegames.com/ru/mechinfection/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hexnodegames.com/mechinfection/"/>
+  </url>
+  <url>
+    <loc>https://hexnodegames.com/fr/mechinfection/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hexnodegames.com/mechinfection/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hexnodegames.com/fr/mechinfection/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hexnodegames.com/ru/mechinfection/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hexnodegames.com/mechinfection/"/>
+  </url>
+  <url>
+    <loc>https://hexnodegames.com/ru/mechinfection/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hexnodegames.com/mechinfection/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hexnodegames.com/fr/mechinfection/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hexnodegames.com/ru/mechinfection/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hexnodegames.com/mechinfection/"/>
+  </url>
+  <url>
+    <loc>https://hexnodegames.com/legal/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hexnodegames.com/legal/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hexnodegames.com/fr/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hexnodegames.com/ru/legal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hexnodegames.com/legal/"/>
+  </url>
+  <url>
+    <loc>https://hexnodegames.com/fr/mentions-legales/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hexnodegames.com/legal/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hexnodegames.com/fr/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hexnodegames.com/ru/legal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hexnodegames.com/legal/"/>
+  </url>
+  <url>
+    <loc>https://hexnodegames.com/ru/legal/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hexnodegames.com/legal/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hexnodegames.com/fr/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hexnodegames.com/ru/legal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hexnodegames.com/legal/"/>
+  </url>
+</urlset>

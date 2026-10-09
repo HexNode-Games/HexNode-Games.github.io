@@ -74,8 +74,10 @@
 
     function showImage(index) {
       currentIndex = (index + galleryButtons.length) % galleryButtons.length;
-      var img = galleryButtons[currentIndex].querySelector("img");
-      lightboxImg.src = img.getAttribute("src");
+      var btn = galleryButtons[currentIndex];
+      var img = btn.querySelector("img");
+      var full = btn.getAttribute("data-full") || img.getAttribute("src");
+      lightboxImg.src = full;
       lightboxImg.alt = img.getAttribute("alt") || "";
     }
 
